@@ -1,0 +1,12 @@
+main {
+    text-align: center;
+}
+
+body {
+    background-image: url(img/tots-template.png);
+    background-repeat: no-repeat;
+}
+
+img {
+    margin-top: 100px;
+}
